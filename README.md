@@ -1,2 +1,2 @@
 # Game
-The game is Tic Toe game was create using c 
+The game is Tic Tac Toe game and Gussing Game was create using c 
